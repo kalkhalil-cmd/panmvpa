@@ -4,3 +4,6 @@ curl --create-dirs 'https://s3.amazonaws.com/openneuro.org/ds006598/sub-PAN01/se
 
 ##this directory has all the 3 column task timing filest##
 ds006598-download/derivatives/afni_timing_epiproj
+
+##this is the code to run one session per subject
+notebooks/nilearn_epiproj_trials.ipynb
